@@ -1074,7 +1074,9 @@
 =================
 [2021-11-25 13:20:26] Текст ошибки: Не найден вид D:\Server538\OpenServer\domains\new-ishop.loc/app/views/Cart/add.php | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 38
 =================
-[2023-11-18 22:41:15] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 19
+[2023-11-18 23:13:00] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 19
 =================
-[2023-11-18 22:41:24] Текст ошибки: Undefined array key "slug" | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 17
+[2023-11-18 23:13:25] Текст ошибки: Undefined array key "slug" | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 18
+=================
+[2023-11-18 23:13:52] Текст ошибки: Undefined array key "slug" | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\Cart\cart_modal.php | Строка: 18
 =================
