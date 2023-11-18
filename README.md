@@ -1,1 +1,1 @@
-# new-ishop.loc
+# ishop-loc
