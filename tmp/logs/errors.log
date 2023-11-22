@@ -1168,3 +1168,7 @@
 =================
 [2023-11-22 07:23:45] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
 =================
+[2023-11-22 07:33:42] Текст ошибки: Not found language gjkgv | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-11-22 07:42:33] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
