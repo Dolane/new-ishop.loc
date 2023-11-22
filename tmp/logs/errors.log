@@ -1158,31 +1158,13 @@
 =================
 [2021-11-28 13:05:21] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-11-21 08:47:02] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 19
+[2021-11-28 13:39:17] Текст ошибки: app\models\Breadcrumbs::getBreadcrumbs(): Return value must be of type string, none returned | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\Breadcrumbs.php | Строка: 19
 =================
-[2023-11-21 08:47:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[2021-11-28 13:39:26] Текст ошибки: app\models\Breadcrumbs::getBreadcrumbs(): Return value must be of type string, none returned | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\Breadcrumbs.php | Строка: 19
 =================
-[2023-11-21 08:47:22] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[2021-11-28 13:43:25] Текст ошибки: app\models\Breadcrumbs::getBreadcrumbs(): Return value must be of type string, none returned | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\Breadcrumbs.php | Строка: 18
 =================
-[2023-11-21 08:47:22] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[2023-11-22 07:23:37] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
 =================
-[2023-11-21 08:47:23] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
-=================
-[2023-11-21 08:47:23] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
-=================
-[2023-11-21 08:47:23] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
-=================
-[2023-11-21 08:47:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
-=================
-[2023-11-21 08:47:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
-=================
-[2023-11-21 08:47:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
-=================
-[2023-11-21 08:47:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
-=================
-[2023-11-21 08:47:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
-=================
-[2023-11-21 08:47:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
-=================
-[2023-11-21 08:47:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newishop.product_gallery' doesn't exist | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[2023-11-22 07:23:45] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
 =================
