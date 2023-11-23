@@ -23,8 +23,8 @@ return [
     'tpl_cart_btn_clear' => 'Clear basket',
     'tpl_cart_empty' => 'Empty basket',
 
-    'tpl_login' => 'SignIN',
-    'tpl_signup' => 'SingUP',
+    'tpl_login' => 'Login',
+    'tpl_signup' => 'Signup',
     'tpl_logout' => 'Logout',
     'tpl_cabinet' => 'Cabinet',
 
