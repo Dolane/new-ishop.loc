@@ -1286,5 +1286,3 @@
 =================
 [2021-11-30 21:12:08] Текст ошибки: Too few arguments to function app\models\Category::get_products(), 2 passed in D:\Server538\OpenServer\domains\new-ishop.loc\app\controllers\CategoryController.php on line 36 and exactly 4 expected | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\Category.php | Строка: 32
 =================
-[2023-11-24 07:58:56] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 19
-=================
