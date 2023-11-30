@@ -1310,3 +1310,9 @@
 =================
 [2021-12-04 13:02:25] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
+[2023-11-30 20:59:12] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-11-30 21:17:35] Текст ошибки: Fail to load language file 'C:\OSPanel\domains\new-ishop.loc/app/languages/validator/lang/uk.php' | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 118
+=================
+[2023-11-30 21:18:24] Текст ошибки: Fail to load language file 'C:\OSPanel\domains\new-ishop.loc/app/languages/validator/lang/ru.php' | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 118
+=================
