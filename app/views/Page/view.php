@@ -1,12 +1,11 @@
 <?php
-
 /** @var $page array */
 ?>
 <div class="container">
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb bg-light p-2">
             <li class="breadcrumb-item"><a href="<?= base_url() ?>"><i class="fas fa-home"></i></a></li>
-            <li class="breadcrumb-item"><?php $page['title'] ?></li>
+            <li class="breadcrumb-item"><?php echo $page['title'] ?></li>
         </ol>
     </nav>
 </div>
@@ -23,3 +22,4 @@
 
     </div>
 </div>
+
