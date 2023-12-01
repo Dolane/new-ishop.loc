@@ -1316,3 +1316,9 @@
 =================
 [2023-11-30 21:18:24] Текст ошибки: Fail to load language file 'C:\OSPanel\domains\new-ishop.loc/app/languages/validator/lang/ru.php' | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 118
 =================
+[2023-12-01 07:52:32] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '123@gmail.com' for key 'user.email' | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-12-01 07:52:32] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-01 07:57:04] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '123@gmail.com' for key 'user.email' | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
