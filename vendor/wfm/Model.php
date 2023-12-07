@@ -29,10 +29,10 @@ abstract class Model
         }
     }
 
-    public function validate($data):bool
+    public function validate($data): bool
     {
         Validator::langDir(APP . '/languages/validator/lang');
-        Validator::lang('uk');
+        Validator::lang(App::$app->getProperty('language')['code']);
         $validator = new Validator($data);
         $validator->rules($this->rules);
         $validator->labels($this->getLabels());
@@ -49,7 +49,7 @@ abstract class Model
         $errors = '<ul>';
         foreach ($this->errors as $error) {
             foreach ($error as $item) {
-                $errors .= "<ul>{$item}</li>";
+                $errors .= "<li>{$item}</li>";
             }
         }
         $errors .= '</ul>';
