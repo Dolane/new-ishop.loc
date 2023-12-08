@@ -1318,17 +1318,9 @@
 =================
 [2021-12-05 12:06:00] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1@1.com' for key 'email' | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
 =================
-[2023-12-05 14:22:08] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 19
+[2021-12-06 18:59:31] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
 =================
-[2023-12-08 07:20:02] Текст ошибки: Undefined array key "id_download" | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 36
+[2021-12-06 18:59:31] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-08 07:20:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
-=================
-[2023-12-08 07:20:16] Текст ошибки: Undefined array key "id_download" | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 36
-=================
-[2023-12-08 07:23:57] Текст ошибки: Undefined array key "id_download" | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 36
-=================
-[2023-12-08 07:24:00] Текст ошибки: Undefined array key "id_download" | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 36
-=================
-[2023-12-08 07:33:14] Текст ошибки: array_merge(): Argument #1 must be of type array, string given | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 48
+[2021-12-08 12:43:27] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
