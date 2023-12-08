@@ -1320,3 +1320,15 @@
 =================
 [2023-12-05 14:22:08] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 19
 =================
+[2023-12-08 07:20:02] Текст ошибки: Undefined array key "id_download" | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 36
+=================
+[2023-12-08 07:20:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-08 07:20:16] Текст ошибки: Undefined array key "id_download" | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 36
+=================
+[2023-12-08 07:23:57] Текст ошибки: Undefined array key "id_download" | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 36
+=================
+[2023-12-08 07:24:00] Текст ошибки: Undefined array key "id_download" | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 36
+=================
+[2023-12-08 07:33:14] Текст ошибки: array_merge(): Argument #1 must be of type array, string given | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\Order.php | Строка: 48
+=================
