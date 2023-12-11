@@ -4,3 +4,19 @@
 =================
 [2021-12-10 12:24:00] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
+[2023-12-11 07:24:45] Текст ошибки: syntax error, unexpected variable "$_POST", expecting "(" | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\UserController.php | Строка: 21
+=================
+[2023-12-11 07:24:46] Текст ошибки: syntax error, unexpected variable "$_POST", expecting "(" | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\UserController.php | Строка: 21
+=================
+[2023-12-11 07:24:49] Текст ошибки: syntax error, unexpected variable "$_POST", expecting "(" | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\UserController.php | Строка: 21
+=================
+[2023-12-11 07:24:49] Текст ошибки: syntax error, unexpected variable "$_POST", expecting "(" | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\UserController.php | Строка: 21
+=================
+[2023-12-11 07:24:50] Текст ошибки: syntax error, unexpected variable "$_POST", expecting "(" | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\UserController.php | Строка: 21
+=================
+[2023-12-11 07:24:50] Текст ошибки: syntax error, unexpected variable "$_POST", expecting "(" | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\UserController.php | Строка: 21
+=================
+[2023-12-11 07:24:55] Текст ошибки: Not found language user | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-12-11 07:25:02] Текст ошибки: syntax error, unexpected variable "$_POST", expecting "(" | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\UserController.php | Строка: 21
+=================
