@@ -19,6 +19,7 @@ class UserController extends AppController
 
         if (!empty($_POST)) {
             $this->model->load();
+
             if (empty($this->model->attributes['password'])) {
                 unset($this->model->attributes['password']);
             }
@@ -30,6 +31,7 @@ class UserController extends AppController
                 if (!empty($this->model->attributes['password'])) {
                     $this->model->attributes['password'] = password_hash($this->model->attributes['password'], PASSWORD_DEFAULT);
                 }
+
                 if ($this->model->update('user', $_SESSION['user']['id'])) {
                     $_SESSION['success'] = ___('user_credentials_success');
                     foreach ($this->model->attributes as $k => $v) {
