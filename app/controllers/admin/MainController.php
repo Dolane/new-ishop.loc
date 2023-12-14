@@ -9,8 +9,8 @@ class MainController extends AppController
 
     public function indexAction()
     {
-        $title = 'Головна сторінка';
-        $this->setMeta('Адмінка :: Головна сторінка');
+        $title = 'Главная страница';
+        $this->setMeta('Админка :: Главная страница');
         $this->set(compact('title'));
     }
 

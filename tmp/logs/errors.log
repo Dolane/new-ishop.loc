@@ -116,3 +116,15 @@
 =================
 [2023-12-12 07:31:22] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 19
 =================
+[2023-12-14 19:22:40] Текст ошибки: Unclosed '{' on line 9 does not match ')' | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\admin\User.php | Строка: 10
+=================
+[2023-12-14 19:22:40] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-14 19:32:58] Текст ошибки: Контроллер app\controllers\LoginController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-12-14 19:39:17] Текст ошибки: Контроллер app\controllers\AdminuserController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-12-14 19:40:45] Текст ошибки: Контроллер app\controllers\AdminuserController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-12-14 19:42:01] Текст ошибки: Контроллер app\controllers\AdminuserController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
