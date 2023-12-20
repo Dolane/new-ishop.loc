@@ -182,3 +182,7 @@
 =================
 [2023-12-20 07:49:35] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
 =================
+[2023-12-20 23:06:57] Текст ошибки: app\models\admin\Category::get_category(): Return value must be of type bool, array returned | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\admin\Category.php | Строка: 62
+=================
+[2023-12-20 23:06:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
