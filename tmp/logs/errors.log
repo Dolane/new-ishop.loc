@@ -176,3 +176,9 @@
 =================
 [2023-12-18 07:55:59] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 50
 =================
+[2023-12-20 07:22:56] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-12-20 07:22:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-20 07:49:35] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
