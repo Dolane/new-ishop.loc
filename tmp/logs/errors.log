@@ -190,3 +190,15 @@
 =================
 [2023-12-23 22:26:18] Текст ошибки: unserialize(): Error at offset 18 of 1457 bytes | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Cache.php | Строка: 27
 =================
+[2023-12-25 21:56:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-25 22:09:36] Текст ошибки: Call to undefined method app\models\admin\Product::get_downloads() | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\admin\ProductController.php | Строка: 65
+=================
+[2023-12-25 22:09:40] Текст ошибки: Call to undefined method app\models\admin\Product::get_downloads() | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\admin\ProductController.php | Строка: 65
+=================
+[2023-12-25 22:09:41] Текст ошибки: Call to undefined method app\models\admin\Product::get_downloads() | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\admin\ProductController.php | Строка: 65
+=================
+[2023-12-26 15:08:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-26 15:08:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
