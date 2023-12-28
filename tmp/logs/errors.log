@@ -202,3 +202,7 @@
 =================
 [2023-12-26 15:08:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
+[2023-12-28 22:18:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-28 22:32:02] Текст ошибки: Метод app\controllers\admin\ProductController::deleteAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
