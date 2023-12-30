@@ -210,3 +210,13 @@
 =================
 [2023-12-30 21:09:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
+[2023-12-30 21:27:19] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
+[2023-12-30 23:16:11] Текст ошибки: Метод app\controllers\admin\UserController::indexAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-12-30 23:30:17] Текст ошибки: Метод app\controllers\admin\UserController::viewAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-12-30 23:30:20] Текст ошибки: Метод app\controllers\admin\UserController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
+[2023-12-30 23:40:21] Текст ошибки: Метод app\controllers\admin\UserController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+=================
