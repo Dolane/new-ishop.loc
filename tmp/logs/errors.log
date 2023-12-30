@@ -206,3 +206,7 @@
 =================
 [2023-12-28 22:32:02] Текст ошибки: Метод app\controllers\admin\ProductController::deleteAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
 =================
+[2023-12-30 21:09:42] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: '$id' | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+=================
+[2023-12-30 21:09:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
