@@ -220,3 +220,11 @@
 =================
 [2023-12-30 23:40:21] Текст ошибки: Метод app\controllers\admin\UserController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
 =================
+[2023-12-31 18:46:27] Текст ошибки: Not found language adin | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-12-31 18:46:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+=================
+[2023-12-31 18:46:32] Текст ошибки: Not found language adin | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
+=================
+[2023-12-31 18:46:43] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+=================
