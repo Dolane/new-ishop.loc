@@ -114,117 +114,103 @@
 =================
 [2021-12-11 14:57:57] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-12 07:31:22] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 19
+[2021-12-12 12:50:21] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-14 19:22:40] Текст ошибки: Unclosed '{' on line 9 does not match ')' | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\admin\User.php | Строка: 10
+[2021-12-12 12:50:21] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-14 19:22:40] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-12 12:50:33] Текст ошибки: Контроллер app\controllers\admin\LoginAdminController не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
 =================
-[2023-12-14 19:32:58] Текст ошибки: Контроллер app\controllers\LoginController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+[2021-12-12 13:18:28] Текст ошибки: Контроллер app\controllers\admin\OrdersController не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
 =================
-[2023-12-14 19:39:17] Текст ошибки: Контроллер app\controllers\AdminuserController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+[2021-12-14 12:49:37] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-14 19:40:45] Текст ошибки: Контроллер app\controllers\AdminuserController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+[2021-12-14 13:02:55] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\widgets\menu\Menu.php | Строка: 79
 =================
-[2023-12-14 19:42:01] Текст ошибки: Контроллер app\controllers\AdminuserController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+[2021-12-14 13:03:16] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\widgets\menu\Menu.php | Строка: 79
 =================
-[2023-12-15 07:19:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-14 13:36:03] Текст ошибки: require(D:\Server538\OpenServer\domains\new-ishop.loc/app/widgets/menu/admin_select_tpl.php): Failed to open stream: No such file or directory | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\widgets\menu\Menu.php | Строка: 99
 =================
-[2023-12-15 07:19:15] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-14 14:22:47] Текст ошибки: Class "R" not found | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Category.php | Строка: 32
 =================
-[2023-12-15 07:19:24] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\menu\Menu.php | Строка: 79
+[2021-12-14 15:55:30] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-15 07:22:43] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\menu\Menu.php | Строка: 79
+[2021-12-15 14:15:08] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-15 07:22:44] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\menu\Menu.php | Строка: 79
+[2021-12-16 11:39:03] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-15 07:25:58] Текст ошибки: syntax error, unexpected token "=" | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\admin\AppController.php | Строка: 31
+[2021-12-16 11:59:19] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-15 07:26:01] Текст ошибки: syntax error, unexpected token "=" | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\admin\AppController.php | Строка: 31
+[2021-12-16 12:26:49] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-15 07:52:52] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column '_' in 'where clause' | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[2021-12-16 12:27:32] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:42:02] Текст ошибки: Не найден вид C:\OSPanel\domains\new-ishop.loc/app/views/admin/Category/add.php | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\View.php | Строка: 38
+[2021-12-16 12:27:42] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:42:02] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-16 12:28:52] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:43:43] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-16 12:28:58] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:43:46] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-16 12:30:35] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:44:32] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-16 12:30:48] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:44:38] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-16 12:30:53] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:44:41] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-16 12:31:43] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:45:07] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-16 12:32:06] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:45:53] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-17 14:18:43] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-18 07:50:05] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-17 14:34:57] Текст ошибки: syntax error, unexpected token "}" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 108
 =================
-[2023-12-18 07:50:38] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-17 14:35:03] Текст ошибки: syntax error, unexpected token "}" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 108
 =================
-[2023-12-18 07:50:40] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-17 14:35:05] Текст ошибки: syntax error, unexpected token "}" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 108
 =================
-[2023-12-18 07:53:33] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 45
+[2021-12-17 14:35:08] Текст ошибки: syntax error, unexpected token "}" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 108
 =================
-[2023-12-18 07:55:37] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 50
+[2021-12-17 14:35:09] Текст ошибки: syntax error, unexpected token "}" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 108
 =================
-[2023-12-18 07:55:56] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 50
+[2021-12-17 14:35:20] Текст ошибки: syntax error, unexpected token "}" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 108
 =================
-[2023-12-18 07:55:59] Текст ошибки: Call to undefined function get_field_array_value() | Файл: C:\OSPanel\domains\new-ishop.loc\app\views\admin\Category\add.php | Строка: 50
+[2021-12-17 14:35:47] Текст ошибки: syntax error, unexpected token "}" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 108
 =================
-[2023-12-20 07:22:56] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+[2021-12-17 14:40:00] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-20 07:22:56] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-17 14:40:13] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-20 07:49:35] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+[2021-12-17 14:40:19] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-20 23:06:57] Текст ошибки: app\models\admin\Category::get_category(): Return value must be of type bool, array returned | Файл: C:\OSPanel\domains\new-ishop.loc\app\models\admin\Category.php | Строка: 62
+[2021-12-17 19:14:48] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-20 23:06:57] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-17 19:57:07] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-23 22:26:04] Текст ошибки: unserialize(): Error at offset 18 of 1457 bytes | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Cache.php | Строка: 27
+[2021-12-18 11:21:15] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-23 22:26:18] Текст ошибки: unserialize(): Error at offset 18 of 1457 bytes | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Cache.php | Строка: 27
+[2021-12-18 12:08:53] Текст ошибки: app\models\admin\Download::save_download(): Return value must be of type bool, none returned | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Download.php | Строка: 81
 =================
-[2023-12-25 21:56:55] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-18 12:12:28] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-25 22:09:36] Текст ошибки: Call to undefined method app\models\admin\Product::get_downloads() | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\admin\ProductController.php | Строка: 65
+[2021-12-18 12:19:43] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
 =================
-[2023-12-25 22:09:40] Текст ошибки: Call to undefined method app\models\admin\Product::get_downloads() | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\admin\ProductController.php | Строка: 65
+[2021-12-18 12:36:34] Текст ошибки: Undefined array key "download_id" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 194
 =================
-[2023-12-25 22:09:41] Текст ошибки: Call to undefined method app\models\admin\Product::get_downloads() | Файл: C:\OSPanel\domains\new-ishop.loc\app\controllers\admin\ProductController.php | Строка: 65
+[2021-12-18 12:37:54] Текст ошибки: Undefined array key "download_id" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 194
 =================
-[2023-12-26 15:08:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-18 12:38:22] Текст ошибки: Undefined array key "download_id" | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\models\admin\Product.php | Строка: 194
 =================
-[2023-12-26 15:08:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-21 16:09:54] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-28 22:18:09] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-22 11:58:58] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-28 22:32:02] Текст ошибки: Метод app\controllers\admin\ProductController::deleteAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
+[2021-12-22 12:16:21] Текст ошибки: Not founud user | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\app\controllers\admin\UserController.php | Строка: 33
 =================
-[2023-12-30 21:09:42] Текст ошибки: SQLSTATE[22007]: Invalid datetime format: 1292 Truncated incorrect DOUBLE value: '$id' | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 206
+[2021-12-24 13:20:29] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-30 21:09:42] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
+[2021-12-25 13:56:45] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-30 21:27:19] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+[2021-12-25 14:12:45] Текст ошибки: Страница не найдена | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
 =================
-[2023-12-30 23:16:11] Текст ошибки: Метод app\controllers\admin\UserController::indexAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
-=================
-[2023-12-30 23:30:17] Текст ошибки: Метод app\controllers\admin\UserController::viewAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
-=================
-[2023-12-30 23:30:20] Текст ошибки: Метод app\controllers\admin\UserController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
-=================
-[2023-12-30 23:40:21] Текст ошибки: Метод app\controllers\admin\UserController::editAction не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 59
-=================
-[2023-12-31 18:46:27] Текст ошибки: Not found language adin | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
-=================
-[2023-12-31 18:46:28] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 66
-=================
-[2023-12-31 18:46:32] Текст ошибки: Not found language adin | Файл: C:\OSPanel\domains\new-ishop.loc\app\widgets\language\Language.php | Строка: 42
-=================
-[2023-12-31 18:46:43] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 62
+[2023-12-31 20:40:55] Текст ошибки: No connection to DB | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Db.php | Строка: 19
 =================
